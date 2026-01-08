@@ -1,0 +1,7 @@
+# Ignore everything inside the virtual environment
+tfjs-env/*
+tfjs-env/src/spam.txt
+tfjs-env/pyvenv.cfg
+
+# Exceptions
+!tfjs-env/src/
