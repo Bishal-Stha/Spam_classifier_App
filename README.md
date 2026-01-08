@@ -1,10 +1,10 @@
-# SentryAI - Advanced Spam Classification Engine
+# Spam Identifier AI - Advanced Spam Classification Engine
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![TensorFlow.js](https://img.shields.io/badge/ML-TensorFlow.js-orange.svg)
 ![Status](https://img.shields.io/badge/status-Live-green.svg)
 
-**SentryAI** is a state-of-the-art, client-side spam detection tool powered by Deep Learning. By leveraging **TensorFlow.js**, it runs the neural network model directly in your browser, ensuring your data never leaves your device while providing instant, real-time analysis.
+**Spam Identifier AI** is a state-of-the-art, client-side spam detection tool powered by Deep Learning. By leveraging **TensorFlow.js**, it runs the neural network model directly in your browser, ensuring your data never leaves your device while providing instant, real-time analysis.
 
 🚀 **[View Live Demo](https://spamclassifier.vercel.app/)**
 
@@ -14,7 +14,7 @@
 
 *   **Privacy-First Architecture**: All processing happens locally on your device using WebGL acceleration. No server-side inference means your messages stay private.
 *   **Deep Learning Model**: Utilizes a Keras-trained neural network converted for the web, capable of understanding context beyond simple keyword matching.
-*   **Modern UI/UX**: Features a "SentryAI" glassmorphism interface built with TailwindCSS for a premium, responsive experience.
+*   **Modern UI/UX**: Features a "Spam Identifier AI" glassmorphism interface built with TailwindCSS for a premium, responsive experience.
 *   **Instant Feedback**: Real-time tokenization and probability scoring.
 
 ## 🛠️ Technology Stack
