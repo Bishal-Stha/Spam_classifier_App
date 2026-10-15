@@ -5,3 +5,5 @@ tfjs-env/pyvenv.cfg
 
 # Exceptions
 !tfjs-env/src/
+.vercel
+.env*
